@@ -6,4 +6,5 @@
   <h4>Changes at Remote</h4>
   <h2>Try conflic6t</h2>
   <h4>Try another</h4>
+  <h1>Another change made by new branch: update-readme</h1>
 </body>

@@ -7,4 +7,5 @@
   <h2>Try conflic6t</h2>
   <h4>Try another</h4>
   <h1>this my change for pulling from master</h1>
+  <h2>After made change to and moved to test</h2>
 </body>

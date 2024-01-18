@@ -8,4 +8,5 @@
   <h4>Try another</h4>
   <h1>this my change for pulling from master</h1>
   <h1>Another change made by new branch: update-readme</h1>
+  <p>changes made at html-skeleton and move to new branch</p>
 </body>
